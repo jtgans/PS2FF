@@ -1,6 +1,5 @@
 * PS/2 to FlashFloppy Media Sense Adapter
 
-#+CAPTION PS2FF Artist Rendering 
 [[PS2FF.png]]
 
 This is a simple board to handle exposing of the modern IBM PS/2 media sense
@@ -16,3 +15,5 @@ https://oshpark.com/shared_projects/WMa6Bw9U
 
 The BoM was picked from DigiKey parts, and is available here:
 http://www.digikey.com/short/2n20v9zv
+
+[[PS2FF_board_art.png]]
