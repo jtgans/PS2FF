@@ -1,3 +1,8 @@
+* PS/2 to FlashFloppy Media Sense Adapter
+
+#+CAPTION PS2FF Artist Rendering 
+[[PS2FF.png]]
+
 This is a simple board to handle exposing of the modern IBM PS/2 media sense
 floppy disk controller such that it can be faked out on the controller side.
 
