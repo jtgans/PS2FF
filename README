@@ -1,0 +1,7 @@
+This is a simple board to handle exposing of the modern IBM PS/2 media sense
+floppy disk controller such that it can be faked out on the controller side.
+
+IOW, FlashFloppy (and by extension Gotek flash-based floppy drives) currently
+cannot handle the advanced media sensing back to the PS/2 host controller. This
+adapter exposes those media sense pins so that we can "fake" the media report
+type to the host controller.
