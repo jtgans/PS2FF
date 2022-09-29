@@ -5,3 +5,9 @@ IOW, FlashFloppy (and by extension Gotek flash-based floppy drives) currently
 cannot handle the advanced media sensing back to the PS/2 host controller. This
 adapter exposes those media sense pins so that we can "fake" the media report
 type to the host controller.
+
+The board has been fabbed via OshPark, and is available here:
+https://oshpark.com/shared_projects/WMa6Bw9U
+
+The BoM was picked from DigiKey parts, and is available here:
+http://www.digikey.com/short/2n20v9zv
