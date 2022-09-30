@@ -7,7 +7,7 @@
   (title_block
     (title "PS/2 FlashFloppy Media Sense Adapter")
     (date "2022-09-28")
-    (rev "A")
+    (rev "B")
     (company "June Tate-Gans (Nybbles and Bytes)")
     (comment 1 "june@theonelab.com")
   )
@@ -1111,7 +1111,6 @@
       )
     )
   )
-
 
   (junction (at 69.85 102.87) (diameter 0) (color 0 0 0 0)
     (uuid 039d206d-028a-4273-ba80-62ff42a10105)
