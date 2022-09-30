@@ -94,7 +94,7 @@
   (net 21 "/~{FF_I_SS}")
   (net 22 "/DATA_RATE_0")
   (net 23 "/~{DISKETTE_CHANGE}")
-  (net 24 "/~{FF_O_DENSITY}")
+  (net 24 "unconnected-(J3-Pad2)")
   (net 25 "/~{FF_I_DS1}")
 
   (footprint "Connector_IDC:IDC-Header_2x17_P2.54mm_Horizontal" (layer "F.Cu")
@@ -823,7 +823,7 @@
     (pad "1" thru_hole roundrect (at 0 0) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask) (roundrect_rratio 0.147059)
       (net 3 "GND") (pinfunction "Pin_1") (pintype "passive") (tstamp 5821af6b-7d01-48a9-9fe7-ba8c159efef9))
     (pad "2" thru_hole circle (at 2.54 0) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask)
-      (net 24 "/~{FF_O_DENSITY}") (pinfunction "Pin_2") (pintype "passive+no_connect") (tstamp 1b004504-2f53-4546-b042-fd50dd6656f1))
+      (net 24 "unconnected-(J3-Pad2)") (pinfunction "Pin_2") (pintype "passive+no_connect") (tstamp 1b004504-2f53-4546-b042-fd50dd6656f1))
     (pad "3" thru_hole circle (at 0 -2.54) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask)
       (net 3 "GND") (pinfunction "Pin_3") (pintype "passive") (tstamp 9bfb607f-83e5-4536-b8cc-09ac7e534f68))
     (pad "4" thru_hole circle (at 2.54 -2.54) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask)
