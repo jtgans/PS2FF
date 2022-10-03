@@ -3232,7 +3232,7 @@
   (gr_text "+12V (yel)" (at 142.494 57.15) (layer "F.SilkS") (tstamp 1a9aa852-4287-4a72-b867-e93009cbf3a2)
     (effects (font (size 1 1) (thickness 0.15)) (justify right))
   )
-  (gr_text "PS2FF Media Sense Adapter\nJune Tate-Gans\njune@theonelab.com\nCC-BY-SA\nBoard Rev B\nSchematic Rev B" (at 110.363 61.214) (layer "F.SilkS") (tstamp 63e9e1b3-450c-4c7f-9fc5-f2ea83b47b10)
+  (gr_text "PS2FF Media Sense Adapter\nJune Tate-Gans\njune@theonelab.com\nCC-BY-SA\nBoard Rev B\nSchematic Rev B\n\nBe sure to set FF to negate its HDOUT pin!" (at 110.363 62.738) (layer "F.SilkS") (tstamp 63e9e1b3-450c-4c7f-9fc5-f2ea83b47b10)
     (effects (font (size 1 1) (thickness 0.15)) (justify left))
   )
 
