@@ -11,9 +11,9 @@ adapter exposes those media sense pins so that we can "fake" the media report
 type to the host controller.
 
 The board has been fabbed via OshPark, and is available here:
-https://oshpark.com/shared_projects/WMa6Bw9U
+https://oshpark.com/shared_projects/C5xEJw8V
 
 The BoM was picked from DigiKey parts, and is available here:
-http://www.digikey.com/short/2n20v9zv
+https://www.digikey.com/short/q1v7w5mt
 
 [[PS2FF_board_art.png]]
