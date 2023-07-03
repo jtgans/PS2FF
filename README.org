@@ -1,6 +1,6 @@
 * PS/2 to FlashFloppy Media Sense Adapter
 
-NOTE: This is still under development and does not work. Please don't assemble until revision 3.
+NOTE: This is still under development and does not work. Please don't assemble until revision C.
 
 [[PS2FF.png]]
 
