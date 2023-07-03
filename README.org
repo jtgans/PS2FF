@@ -1,5 +1,7 @@
 * PS/2 to FlashFloppy Media Sense Adapter
 
+NOTE: This is still under development and does not work. Please don't assemble until revision 3.
+
 [[PS2FF.png]]
 
 This is a simple board to handle exposing of the modern IBM PS/2 media sense
